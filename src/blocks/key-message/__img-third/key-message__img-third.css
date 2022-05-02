@@ -1,0 +1,8 @@
+.key-message__img-third {
+    position: absolute;
+    top: 212px;
+    left: 77px;
+    max-width: 35px;
+    width: 100%;
+    z-index: 1;
+}

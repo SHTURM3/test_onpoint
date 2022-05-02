@@ -1,0 +1,8 @@
+.key-message__img-ninth {
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    max-width: 233px;
+    width: 100%;
+    z-index: 1;
+}

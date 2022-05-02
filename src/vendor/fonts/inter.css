@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url("./Gilroy-Light.woff2") format("woff2"),
+         url("./Gilroy-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./Gilroy-Regular.woff2") format("woff2"),
+         url("./Gilroy-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url("./Gilroy-Extrabold.woff2") format("woff2"),
+         url("./Gilroy-Extrabold.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'DINPro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./DINPro.woff2") format("woff2"),
+         url("./DINPro.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./Circe-Regular.woff2") format("woff2"),
+         url("./Circe-Regular.woff") format("woff");
+}

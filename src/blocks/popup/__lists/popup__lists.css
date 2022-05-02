@@ -1,0 +1,9 @@
+.popup__lists {
+    display: flex;
+    margin-left: 230px;
+    margin-bottom: 40px;
+    max-width: 480px;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden; 
+}

@@ -1,0 +1,5 @@
+.popup__point_active {
+    border: none;
+    border: 1px solid #fc6da9;
+    background-color: #fc6da9;
+}

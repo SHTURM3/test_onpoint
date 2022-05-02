@@ -1,0 +1,9 @@
+.popup__title {
+    font-family: DINPro,Arial,"sans-serif";
+    font-size: 100px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    margin: 0 0 23px 220px;
+    max-width: 470px;
+    width: 100%;
+}

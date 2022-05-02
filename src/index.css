@@ -1,0 +1,108 @@
+/* Подключение стилей normalize */
+@import url('./vendor/normalize.css');
+
+/* Подключение шрифтов */
+@import url('./vendor/fonts/inter.css');
+
+/* Подключение стилей page */
+@import url('./blocks/page/page.css');
+
+/* Подключение стилей header */
+@import url('./blocks/header/header.css');
+@import url('./blocks/header/__info/header__info.css');
+@import url('./blocks/header/__link/header__link.css');
+@import url('./blocks/header/__name/header__name.css');
+
+
+/* Подключение стилей content */
+@import url('./blocks/content/content.css');
+
+/* Подсключение стилей для смены фона */
+@import url('./blocks/background/background.css');
+
+
+/* Подключение стилей homepage */
+@import url('./blocks/home-page/home-page.css');
+@import url('./blocks/home-page/__img-first/home-page__img-first.css');
+@import url('./blocks/home-page/__img-second/home-page__img-second.css');
+@import url('./blocks/home-page/__img-third/home-page__img-third.css');
+@import url('./blocks/home-page/__img-fourth/home-page__img-fourth.css');
+@import url('./blocks/home-page/__img-fifth/home-page__img-fifth.css');
+@import url('./blocks/background/_home-page/background_home-page.css');
+@import url('./blocks/home-page/__content/home-page__content.css');
+@import url('./blocks/home-page/__text/home-page__text.css');
+@import url('./blocks/home-page/__title/home-page__title.css');
+@import url('./blocks/home-page/__title/_strong/home-page__title_strong.css');
+@import url('./blocks/home-page/__btn/home-page__btn.css');
+@import url('./blocks/btn-arrow/btn-arrow.css');
+@import url('./blocks/btn-arrow/__img/btn-arrow__img.css');
+
+/* Подключение стилей message */
+@import url('./blocks/message/message.css');
+@import url('./blocks/message/__img/message__img.css');
+@import url('./blocks/background/_message/background_message.css');
+@import url('./blocks/message/__title/message__title.css');
+@import url('./blocks/message/__content/message__content.css');
+@import url('./blocks/message/__track/message__track.css');
+@import url('./blocks/message/__scroll/message__scroll.css');
+@import url('./blocks/message/__slider/message__slider.css');
+@import url('./blocks/message/__text/message__text.css');
+@import url('./blocks/message/__text/_strong/message__text_strong.css');
+
+/* Подключение стилей key-message */
+@import url('./blocks/key-message/key-message.css');
+@import url('./blocks/key-message/__img-first/key-message__img-first.css');
+@import url('./blocks/key-message/__img-second/key-message__img-second.css');
+@import url('./blocks/key-message/__img-third/key-message__img-third.css');
+@import url('./blocks/key-message/__img-fourth/key-message__img-fourth.css');
+@import url('./blocks/key-message/__img-fifth/key-message__img-fifth.css');
+@import url('./blocks/key-message/__img-sixth/key-message__img-sixth.css');
+@import url('./blocks/key-message/__img-seventh/key-message__img-seventh.css');
+@import url('./blocks/key-message/__img-eighth/key-message__img-eighth.css');
+@import url('./blocks/key-message/__img-ninth/key-message__img-ninth.css');
+@import url('./blocks/background/_key-message/background_key-message.css');
+@import url('./blocks/key-message/__content/key-message__content.css');
+@import url('./blocks/key-message/__text/key-message__text.css');
+@import url('./blocks/key-message/__title/key-message__title.css');
+@import url('./blocks/key-message/__title/_strong/key-message__title_strong.css');
+@import url('./blocks/key-message/__advantages/key-message__advantages.css');
+@import url('./blocks/first-advantage/first-advantage.css');
+@import url('./blocks/first-advantage/__icon/first-advantage__icon.css');
+@import url('./blocks/first-advantage/__text/first-advantage__text.css');
+@import url('./blocks/second-advantage/second-advantage.css');
+@import url('./blocks/second-advantage/__icon/second-advantage__icon.css');
+@import url('./blocks/second-advantage/__text/second-advantage__text.css');
+@import url('./blocks/key-message/__btn/key-message__btn.css');
+@import url('./blocks/btn-plus/btn-plus.css');
+
+/* Подключение стилей popup */
+@import url('./blocks/popup/popup.css');
+@import url('./blocks/popup/_active/popup_active.css');
+@import url('./blocks/overlay/overlay.css');
+@import url('./blocks/popup/__content/popup__content.css');
+@import url('./blocks/popup/__close-btn/popup__close-btn.css');
+@import url('./blocks/popup/__text/popup__text.css');
+@import url('./blocks/popup/__title/popup__title.css');
+@import url('./blocks/popup/__title/_strong/popup__title_strong.css');
+@import url('./blocks/popup/__lists/popup__lists.css');
+@import url('./blocks/popup/__list/popup__list.css');
+@import url('./blocks/popup/__list/_first/popup__list_first.css');
+@import url('./blocks/popup/__list/_second/popup__list_second.css');
+@import url('./blocks/popup/__list-active/popup__list-active.css');
+@import url('./blocks/popup/__item/popup__item.css');
+@import url('./blocks/popup/__item-number/popup__item-number.css');
+@import url('./blocks/popup/__item-text/popup__item-text.css');
+@import url('./blocks/popup/__btns/popup__btns.css');
+@import url('./blocks/popup/__btn-left/popup__btn-left.css');
+@import url('./blocks/popup/__point/popup__point.css');
+@import url('./blocks/popup/__point/_active/popup__point_active.css');
+@import url('./blocks/popup/__btn-right/popup__btn-right.css');
+
+/* Подключение стилей footer */
+@import url('./blocks/footer/footer.css');
+@import url('./blocks/footer/__logo/footer__logo.css');
+
+.slide {
+    display: flex;
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,11 @@
+.popup__btn-right {
+    background-image: url('../../../images/third-page/btn-right.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: transparent;
+    width: 11px;
+    height: 18px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}

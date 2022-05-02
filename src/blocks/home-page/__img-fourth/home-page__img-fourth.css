@@ -1,0 +1,8 @@
+.home-page__img-fourth {
+    position: absolute;
+    bottom: 193px;
+    left: 21px;
+    max-width: 74px;
+    width: 100%;
+    z-index: -1;
+}

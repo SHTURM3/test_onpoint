@@ -1,0 +1,15 @@
+.first-advantage {
+    position: relative;
+    z-index: -2;
+    margin-left: -32px;
+    margin-right: 68px;
+    box-sizing: border-box;
+    padding-left: 103px;
+    padding-bottom: 93px;
+    padding-top: 69px;
+    max-width: 386px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 40px;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 15%)
+}

@@ -1,0 +1,10 @@
+.message__track {
+    background-color: #000;
+    border-radius: 10px;
+    bottom: 92px;
+    height: 424px;
+    left: 79px;
+    position: absolute;
+    width: 5px;
+    z-index: -1;
+}

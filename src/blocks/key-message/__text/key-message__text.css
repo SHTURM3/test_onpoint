@@ -1,0 +1,7 @@
+.key-message__text {
+    margin: 0;
+    font-family: 'DINPro', 'Arial', 'sans-serif';
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+}

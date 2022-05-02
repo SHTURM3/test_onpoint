@@ -1,0 +1,10 @@
+.header__name {
+    font-family: Circe,Arial,"sans-serif";
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0 0 0 23px;
+    height: 24px;
+    border-left: 2px solid black;
+    padding-left: 23px;
+}

@@ -1,0 +1,17 @@
+.key-message__btn {
+    display: flex;
+    align-items: center;
+    background-color: #ff6a9f;
+    border: none;
+    border-radius: 40px;
+    position: absolute;
+    bottom: 116px;
+    right: 80px;
+    font-family: DINPro,Arial,"sans-serif";
+    font-size: 27px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    max-width: 263px;
+    width: 100%;
+    padding: 17px 19px;
+}

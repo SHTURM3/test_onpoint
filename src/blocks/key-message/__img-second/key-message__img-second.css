@@ -1,0 +1,8 @@
+.key-message__img-second {
+    position: absolute;
+    top: 156px;
+    left: 184px;
+    max-width: 67px;
+    width: 100%;
+    z-index: 2;
+}

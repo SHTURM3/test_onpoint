@@ -1,0 +1,9 @@
+.popup__btns {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0 0 220px;
+    padding-bottom: 32px;
+    max-width: 80px;
+    width: 100%;
+}

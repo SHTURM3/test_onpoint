@@ -1,0 +1,6 @@
+.message__content {
+    display: flex;
+    margin: 0 auto;
+    max-width: 885px;
+    width: 100%;
+}

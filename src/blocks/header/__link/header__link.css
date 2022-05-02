@@ -1,0 +1,9 @@
+.header__link {
+    display: block;
+    background-image: url('../../../images/home-icon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    max-width: 23px;
+    width: 100%;
+    height: 19px;
+}
