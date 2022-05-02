@@ -18,7 +18,7 @@ HTML, CSS. Методология БЭМ, благодаря которой ос
 **Ссылки на проект**
 
 * [Ссылка на ТЗ](https://onpoint.ru/dev_task)
-* [Ссылка на проект](https://shturm3.github.io/mesto/)
+* [Ссылка на проект](https://shturm3.github.io/test_onpoint/)
 
 **Дополнительная информация**
 
