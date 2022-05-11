@@ -1,7 +1,7 @@
 .header {
-    position: fixed;
+    position: absolute;
     top: 31px;
     left: 66px;
-    width: 891px;
-    margin: 0 auto;
+    width: 154px;
+    z-index: 1;
 }

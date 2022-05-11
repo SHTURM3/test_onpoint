@@ -1,7 +1,7 @@
 .page {
+    position: relative;
+    max-width: 1024px;
+    overflow: hidden;
     width: 100%;
-    height: 768px;
-    margin: 0 auto;
-    max-width: 3082px;
-    overflow-y: hidden;
+    margin: 0 auto; 
 }

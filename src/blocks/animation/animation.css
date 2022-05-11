@@ -1,0 +1,71 @@
+@keyframes animation-first {
+    0%{
+    }
+    50%{
+        transform-origin: right;
+        transform: translate(-112px);
+    }
+    90%{
+        transform: scale(1.5);
+    }
+}    
+
+@keyframes animation-second {
+    0%{
+    }
+    50%{
+        transform-origin: right;
+        transform: translate(120px);
+    }
+    90%{
+        transform-origin: top;
+        transform: translate(91px) scale(1.5);
+    }
+}
+
+@keyframes animation-third {
+    0%{
+    }
+    50%{
+        transform: scale(1.5) translate(15px);
+        transform-origin: right;
+    }
+}
+
+@keyframes animation-fourth {
+    0%{
+    }
+    50%{
+        transform: scale(0.5) translate(169px);
+        transform-origin: bottom right;
+    }
+}
+
+@keyframes animation-message {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+    
+.animation-first{
+    animation: animation-first 10s linear 0s infinite normal none;
+}    
+
+.animation-second{
+    animation: animation-second 10s linear 0s infinite normal none;
+}
+
+.animation-third{
+    animation: animation-second 10s linear 0s infinite normal none;
+}
+
+.animation-fourth{
+    animation: animation-fourth 10s linear 0s infinite normal none;
+}
+
+.animation-message{
+    animation: animation-message 5s linear 0s infinite normal none;
+}

@@ -1,0 +1,7 @@
+.content {
+    display: flex;
+    /* transform: translate3d(0px, 0px, 0px); */
+    /* scroll-snap-type: mandatory;
+    scroll-snap-points-x: repeat(1024px);
+    scroll-snap-type: x mandatory; */
+}

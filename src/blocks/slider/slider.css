@@ -1,0 +1,10 @@
+.slider{
+    width: 1024px;
+    height: 768px;
+    user-select: none;
+    touch-action: pan-y;
+}
+
+.slider img {
+    pointer-events: none;
+}

@@ -1,7 +1,5 @@
 .footer {
-    position: fixed;
-    bottom: 3px;
-    left: 69px;
-    width: 886px;
-    margin: 0 auto;
+    position: absolute;
+    bottom: 10px;
+    left: 66px;
 }

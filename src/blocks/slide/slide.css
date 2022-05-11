@@ -1,0 +1,6 @@
+.slide {
+    width: 1024px;
+    height: 768px;
+    flex-shrink: 0;
+    /* scroll-snap-align: start; */
+}

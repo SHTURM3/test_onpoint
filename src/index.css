@@ -4,6 +4,9 @@
 /* Подключение шрифтов */
 @import url('./vendor/fonts/inter.css');
 
+/* Подключение анимации */
+@import url('./blocks/animation/animation.css');
+
 /* Подключение стилей page */
 @import url('./blocks/page/page.css');
 
@@ -13,6 +16,10 @@
 @import url('./blocks/header/__link/header__link.css');
 @import url('./blocks/header/__name/header__name.css');
 
+/* Подключение стилей для реализации свайпа */
+@import url('./blocks/slider/slider.css');
+@import url('./blocks/slider-list/slider-list.css');
+@import url('./blocks/slide/slide.css');
 
 /* Подключение стилей content */
 @import url('./blocks/content/content.css');
@@ -102,7 +109,3 @@
 @import url('./blocks/footer/footer.css');
 @import url('./blocks/footer/__logo/footer__logo.css');
 
-.slide {
-    display: flex;
-    scroll-behavior: smooth;
-}
